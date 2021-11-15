@@ -1,0 +1,115 @@
+#EXTM3U x-tvg-url="https://epg.kampung.xyz/IPTV.xml.gz"
+
+#EXTM3U x-tvg-url="https://sx001.000webhostapp.com/otto.xml" url-tvg="https://sx001.000webhostapp.com/otto.xml" refresh="1440" max-conn="1" refresh="24"
+
+
+============================================================================
+============ LOKAL ============
+#EXTINF:-1 tvg-id="rcti" tvg-name="rcti" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", RCTI
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", MNC TV
+http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
+#EXTINF:-1 tvg-id="ANTV ID" tvg-name="ANTV ID" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", ANTV 
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#EXTINF:-1 tvg-id="sctv" tvg-name="sctv" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", SCTV 
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+#EXTINF:-1 tvg-id="indosiar" tvg-name="indosiar" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", INDOSIAR 
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-name="gtv" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", GTV 
+http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
+
+#EXTINF:-1 tvg-id="tvOne ID" tvg-name="tvOne ID" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", TV ONE 
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+#EXTINF:-1 tvg-id="inews" tvg-name="inews" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", INEWS 
+http://syarman.hexat.com/INDONESIA%20HD/Inews.m3u8
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", METRO TV 
+http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="cnbc" tvg-name="cnbc" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 tvg-id="tvri" tvg-name="tvri" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", TVRI
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-id="kompastv" tvg-name="kompastv" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png" group-title="LOKAL",KOMPAS TV 
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 tvg-id="beritasatu" tvg-name="beritasatu" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.berita1world" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", Berita Satu HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b544100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL",TRANS 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+============================================================================
+============ BEINSPORTS ============
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="BEIN SPORTS",BEIN SPORTS 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="BEIN SPORTS",BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 01
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3666
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 02
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3667
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 03
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3668
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 04
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3669
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 05
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3670
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 06" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 06
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3671
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 07" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 07
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3672
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 08" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 08
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3673
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 09" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 09
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3674
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 10
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3675
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 11
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3676
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 12" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 12
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3677
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: Arabic 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336" group-title="BEIN SPORTS",beIN Sports: Arabic 13
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/3678
+
+
+#EXTINF:-1 tvg-id="I392.76950.schedulesdirect.org" tvg-name="beIN Sports: beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS",beIN Sports: beIN Sports
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4283
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="bein Sports: beIN Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS",bein Sports: beIN Sports 4
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4284
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: beIN Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS",beIN Sports: beIN Sports 5
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4285
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: beIN Sports 6" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS",beIN Sports: beIN Sports 6
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4286
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: beIN Sports 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS",beIN Sports: beIN Sports 7
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4287
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: beIN Sports 8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS",beIN Sports: beIN Sports 8
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4288
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports: beIN Sports LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="BEIN SPORTS",beIN Sports: beIN Sports LaLiga
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4289
+#EXTINF:-1 tvg-id="" tvg-name="beIn Sports: beIN Sports N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1920px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="BEIN SPORTS",beIn Sports: beIN Sports N
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4290
